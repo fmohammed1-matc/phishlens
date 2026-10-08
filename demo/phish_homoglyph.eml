@@ -1,0 +1,19 @@
+From: Apple ID <no-reply@=?utf-8?b?0LDRgNGAbGU=?=.com>
+To: fahad@example.com
+Subject: Your Apple ID was used to sign in
+Date: Wed, 07 Oct 2026 03:11:44 -0500
+Message-ID: <alert-5512@xn--pple-43d.com>
+Return-Path: =?utf-8?b?PGJvdW5jZUDQsNGA0YBsZS5jb20+?=
+Received: from relay.evil.example (relay.evil.example [91.203.67.77])
+ by mx.example.com with ESMTPS id QQQ777
+ for <fahad@example.com>; Wed, 07 Oct 2026 03:12:01 -0500
+Received: from mta.evil.example (mta.evil.example [91.203.67.10])
+ by relay.evil.example with ESMTPS id QQQ776
+ for <fahad@example.com>; Wed, 07 Oct 2026 04:45:00 -0500
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Your Apple ID was used to sign in on a new device.
+If this was not you, secure your account here:
+https://bit.ly/3xAppleSecure

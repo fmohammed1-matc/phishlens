@@ -1,0 +1,36 @@
+From: PayPal Security <security@paypaI.com>
+To: fahad@example.com
+Subject: Action required: verify your account
+Date: Tue, 06 Oct 2026 14:02:11 -0500
+Message-ID: <urgent-99182@paypaI.com>
+Return-Path: <noreply@secure-mailer.ru>
+Reply-To: support@paypaI-helpdesk.com
+Received: from unknown (unknown [185.220.101.4])
+ by mx.example.com with ESMTPS id ZZZ999
+ for <fahad@example.com>; Tue, 06 Oct 2026 14:02:15 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5588738031283381435=="
+
+--===============5588738031283381435==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear customer,
+
+We detected unusual activity. Verify now:
+https://www.paypal.com.signin.verify-user.tk/auth
+or use our backup link http://45.155.204.9/login
+
+PayPal Security
+
+--===============5588738031283381435==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Dear customer,</p>
+        <p>We detected unusual activity. <a href=3D"http://45.155.204.9/login=
+">www.paypal.com/verify</a></p></body></html>
+
+--===============5588738031283381435==--

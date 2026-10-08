@@ -1,0 +1,24 @@
+From: GitHub <team@github.com>
+To: fahad@example.com
+Subject: Your weekly digest
+Date: Tue, 06 Oct 2026 09:15:00 -0500
+Message-ID: <digest-20261006@github.com>
+Return-Path: <bounce@github.com>
+DKIM-Signature: v=1; a=rsa-sha256; d=github.com; s=pf2024; bh=abc123; b=def456
+Received: from out-1.smtp.github.com (out-1.smtp.github.com [192.30.252.200])
+ by mx.example.com with ESMTPS id AAA111
+ for <fahad@example.com>; Tue, 06 Oct 2026 09:15:02 -0500
+Received: from sender.github.com (sender.github.com [192.30.252.10])
+ by out-1.smtp.github.com with ESMTPS id BBB222
+ for <fahad@example.com>; Tue, 06 Oct 2026 09:14:58 -0500
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+Hi Fahad,
+
+Here is your weekly digest. View it online:
+https://github.com/notifications
+
+Thanks,
+The GitHub Team
